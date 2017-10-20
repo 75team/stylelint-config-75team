@@ -8,14 +8,15 @@ To see the rules that this config uses, please read the detail of our [config ru
 
 ## Installation
 
-``` 
+``` bash
 npm install stylelint-config-75team --save-dev
 ```
 
 ## Usage
 
 Once you installed `stylelint-config-75team` locally within you project, just set you stylelint config to :
-```
+
+``` json
 {
     "extends":  "stylelint-config-75team"
 }
@@ -26,8 +27,9 @@ Since we have extended `'stylelint-config-standard'`, you don't need to install 
 
 Simply add a "rules" key to your config, then add your overrides and additions there.
 
-For example, if you want all the string quotes to be single in your project, you can change the `string-quotes` rule to `'single'`. 
-```
+For example, if you want all the string quotes to be single in your project, you can change the `string-quotes` rule to `'single'`.
+
+``` json
 {
     "extends":  "stylelint-config-75team",
     "rules": {
