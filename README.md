@@ -1,7 +1,7 @@
 # stylelint-config-75team
 > The recommended stylelint config of 75team
 
-[![npm (scoped)](https://img.shields.io/npm/v/@cycle/core.svg?style=flat-square)](https://www.npmjs.com/package/stylelint-config-75team)
+[![npm](https://img.shields.io/npm/v/stylelint-config-75team.svg?style=flat-square)](https://www.npmjs.com/package/stylelint-config-75team)
 
 Extends `stylelint-config-standard`, and uses `stylelint-order` to help sorting css properties according to our customized order.
 Use it as is or as a foundation for your own config.
