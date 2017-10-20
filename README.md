@@ -43,3 +43,21 @@ For example, if you want all the string quotes to be single in your project, you
 ```
 
 If you need furthor information about customizing rules, you can read [configuration guide](!https://stylelint.io/user-guide/configuration/) and [rules of stylelint](!https://stylelint.io/user-guide/configuration/)
+
+## Use in IDE
+
+If you want to use stylelint in your project, we suggest you use the corresponding plugin in your IDE to get better coding experience.
+
+### VSCode
+ 
+If you use VSCode, you need to install the following plugins:
+
+1. **[stylelint](https://github.com/shinnn/vscode-stylelint)**: A Visual Studio Code extension to lint CSS/SCSS/Less with stylelint
+
+2. **[stylefmt](https://github.com/morishitter/stylefmt)**: is a tool that automatically formats your stylesheets.
+
+### Sublime
+
+If you use Sublime, you need to install [SublimeLinter-contrib-stylelint](https://github.com/kungfusheep/SublimeLinter-contrib-stylelint).
+
+In order for stylelint to be executed by SublimeLinter,you must ensure that nodejs is available to SublimeLinter.Before going any further, please read and follow the steps in “[Finding a linter executable](http://sublimelinter.readthedocs.io/en/latest/troubleshooting.html#finding-a-linter-executable)” through “Validating your PATH” in the documentation.
