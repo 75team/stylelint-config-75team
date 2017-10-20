@@ -27,5 +27,13 @@ Since we have extended `'stylelint-config-standard'`, you don't need to install 
 Simply add a "rules" key to your config, then add your overrides and additions there.
 
 For example, if you want all the string quotes to be single in your project, you can change the `string-quotes` rule to `'single'`. 
+```
+{
+    "extends":  "stylelint-config-75team",
+    "rules": {
+        "string-quotes": "single"
+    }
+}
+```
 
 If you need furthor information about customizing rules, you can read [configuration guide](!https://stylelint.io/user-guide/configuration/) and [rules of stylelint](!https://stylelint.io/user-guide/configuration/)
