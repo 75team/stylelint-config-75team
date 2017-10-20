@@ -48,8 +48,7 @@ If you need furthor information about customizing rules, you can read [configura
 
 If you want to use stylelint in your project, we suggest you use the corresponding plugin in your IDE to get better coding experience.
 
-### VSCode
- 
+### VSCode
 If you use VSCode, you need to install the following plugins:
 
 1. **[stylelint](https://github.com/shinnn/vscode-stylelint)**: A Visual Studio Code extension to lint CSS/SCSS/Less with stylelint
