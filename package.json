@@ -1,0 +1,25 @@
+{
+  "name": "stylelint-config-75team",
+  "version": "1.0.0",
+  "description": "stylelint config for 75team",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/75team/stylelint-config-75team.git"
+  },
+  "author": {
+    "name": "betsey liu",
+    "email": "betseyliu@icloud.com"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/75team/stylelint-config-75team/issues"
+  },
+  "homepage": "https://github.com/75team/stylelint-config-75team#readme",
+  "dependencies": {
+    "stylelint": "^8.2.0",
+    "stylelint-config-standard": "^17.0.0",
+    "stylelint-order": "^0.7.0"
+  }
+}
