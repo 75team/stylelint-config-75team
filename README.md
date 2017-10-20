@@ -42,7 +42,7 @@ For example, if you want all the string quotes to be single in your project, you
 }
 ```
 
-If you need furthor information about customizing rules, you can read [configuration guide](!https://stylelint.io/user-guide/configuration/) and [rules of stylelint](!https://stylelint.io/user-guide/configuration/)
+If you need furthor information about customizing rules, you can read [configuration guide](https://stylelint.io/user-guide/configuration/) and [rules of stylelint](https://stylelint.io/user-guide/configuration/)
 
 ## Use in IDE
 
