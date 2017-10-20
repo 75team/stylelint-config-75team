@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/75team/stylelint-config-75team#readme",
   "dependencies": {
+    "postcss": "^6.0.13",
     "stylelint": "^8.2.0",
     "stylelint-config-standard": "^17.0.0",
     "stylelint-order": "^0.7.0"
