@@ -2,7 +2,6 @@
 module.exports = {
     extends: 'stylelint-config-standard',
     plugins: ['stylelint-order'],
-    ignoreFiles: ['./fesrc/css/lib/**/*.css', './fesrc/css/base/reset.css', './fesrc/js/**/*.css'],
     rules: {
       'custom-property-empty-line-before': 'never', // 禁止自定义属性前面存在空行
       // 颜色相关
